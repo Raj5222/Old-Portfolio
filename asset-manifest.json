@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Old-Portfolio/static/css/main.a7461685.css",
+    "main.js": "/Old-Portfolio/static/js/main.0a70f7d5.js",
+    "static/media/Raj Image.jpg": "/Old-Portfolio/static/media/Raj Image.ea8b35dd4f215d3b7faf.jpg",
+    "index.html": "Old-Portfolio/index.html",
+    "main.a7461685.css.map": "/Old-Portfolio/static/css/main.a7461685.css.map",
+    "main.0a70f7d5.js.map": "/Old-Portfolio/static/js/main.0a70f7d5.js.map"
+  },
+  "entrypoints": [
+    "Old-Portfolio/static/css/main.a7461685.css",
+    "Old-Portfolio/static/js/main.0a70f7d5.js"
+  ]
+}
